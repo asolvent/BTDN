@@ -8,6 +8,7 @@ namespace ACME.MonthlyJob
 {
     public class PrintRequester : IPrintRequester
     {
+        //Send request - capture logs (failures in detail)
         public void SendRequest(PrintRequest request)
         {
             Console.WriteLine("Distribution Company");
