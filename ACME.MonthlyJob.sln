@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACME.MonthlyJob", "ACME.MonthlyJob\ACME.MonthlyJob.csproj", "{FE11B9AF-C5D2-4A58-95C7-66955BC8C969}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACME.Data", "ACME.Data\ACME.Data.csproj", "{1C750D96-EDC6-4C84-9B52-887083B8EBF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE11B9AF-C5D2-4A58-95C7-66955BC8C969}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE11B9AF-C5D2-4A58-95C7-66955BC8C969}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE11B9AF-C5D2-4A58-95C7-66955BC8C969}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE11B9AF-C5D2-4A58-95C7-66955BC8C969}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C750D96-EDC6-4C84-9B52-887083B8EBF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C750D96-EDC6-4C84-9B52-887083B8EBF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C750D96-EDC6-4C84-9B52-887083B8EBF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C750D96-EDC6-4C84-9B52-887083B8EBF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
